@@ -1,7 +1,7 @@
 # exercism
 Short list of exercism.io links current as of Thursday June 22, 2017
 
-Also available at [exercism](http://exercism.io/cantocass)
+Also available at [exercism](http://exercism.io/cantocass) (requires account using GitHub login).
 
 1. [Hello World](http://exercism.io/exercises/23f96f0ca10e4b47a1948500f238c972)
 2. [RNA Transcription](http://exercism.io/exercises/ab92645850e442e69bebd2e29d76fd81)
