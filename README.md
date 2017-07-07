@@ -1,5 +1,5 @@
 # exercism
-Short list of exercism.io links current as of Thursday June 22, 2017
+Short list of exercism.io links current as of Thursday July 7, 2017
 
 Also available at [exercism](http://exercism.io/cantocass) (requires account using GitHub login).
 
@@ -13,3 +13,4 @@ Also available at [exercism](http://exercism.io/cantocass) (requires account usi
 8. [Scrabble Score](http://exercism.io/exercises/2a60adab522b4114892292ab2f2738e6)
 9. [Raindrops](http://exercism.io/exercises/3763b6a7a3ae491bb31e1dc0bf45f46b)
 10. [Difference of Squares](http://exercism.io/exercises/255128b5eb4243f6b52a4d564ff97758)
+11. [Perfect Numbers](http://exercism.io/submissions/88e83d3ba000488daa441fcaf69e7f5f)
