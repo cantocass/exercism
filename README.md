@@ -1,5 +1,5 @@
 # exercism
-Short list of exercism.io links current as of Thursday July 7, 2017
+Short list of exercism.io links current as of Saturday July 29, 2017
 
 Also available at [exercism](http://exercism.io/cantocass) (requires account using GitHub login).
 
